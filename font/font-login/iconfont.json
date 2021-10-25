@@ -1,0 +1,23 @@
+{
+  "id": "2682924",
+  "name": "font",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1222207",
+      "name": "weibo",
+      "font_class": "weibo",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "15559682",
+      "name": "qq",
+      "font_class": "shejiaotubiao-39",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    }
+  ]
+}

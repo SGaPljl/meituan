@@ -1,0 +1,134 @@
+body{
+	background: #fff;
+}
+#header{
+	height: 67px;
+	border-bottom: 2px solid #D8D8D8;
+
+}
+.header-center{
+	width: 980px;
+	height: 47px;
+	padding: 10px 0;
+	margin: 0 auto;
+}
+.header-center img{
+	width: 128px;
+	height: 47px;
+}
+.header-center-right{
+	float: right;
+    line-height: 36px;
+}
+.header-center-right span{
+	margin-right: 10px;
+    vertical-align: sub;
+}
+.header-center-right button{
+	padding: 3px 10px;
+	font-size: 12px;
+    color: #222;
+    vertical-align: sub;
+    background: #FFBD00;
+}
+#body{
+	width: 980px;
+	height: 416px;
+	padding-top: 30px;
+	margin:0 auto;
+	margin-bottom: 30px;
+}
+.body-form{
+	width: 980px;
+	height: 416px;
+
+}
+.form-1{
+	width: 870px;
+	height: 40px;
+	position: relative;
+	padding: 8px 0 12px 110px;
+
+}
+.form-1 span{
+	position: absolute;
+    left: 0;
+    width: 100px;
+    padding-top: 6px;
+    font-size: 14px;
+    text-align: right;
+    color: #333;
+}
+.phone-i{
+	color:red;
+}
+.form-1 input{
+	width: 278px;
+	height: 28px;
+	padding: 5px;
+	border: 1px solid #aaa;
+}
+
+.form-1 input:focus {
+	border: 1px solid #FFBD00;
+}
+
+.form-tishi{
+	width: 870px;
+	height: 20.67px;
+	padding-left: 110px;
+}
+.form-tishi span{
+	font-size: 14px;
+    color: #FE8C00;
+}
+.form-grade{
+	width: 300px;
+	height: 20px;
+	position: relative;
+	top: -10px;
+	padding-left: 110px;
+}
+.form-form-span{
+	display: block;
+    float: left;
+    text-align: center;
+    font-size: 12px;
+    height: 20px;
+    line-height: 20px;
+    width: 95px;
+    border-right: 2px solid #fff;
+    color: #fff;
+    background: #EEEEEE;
+}
+.form-1 button{
+	padding: 7px 20px;
+	background: #FFBD00;
+	color: #222;
+	border-radius: 2px;
+    width: 285px;
+}
+.login-2{
+	width: 270px;
+	height: 106px;
+	padding-left: 110px;
+	display: flex;
+    font-size: 14px;
+}
+.login-2-a i{
+	display: inline-block;
+    border: 1px solid #ccc;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: #fff;
+    position: relative;
+    margin: 2px 5px;
+}
+.login-2-b{
+	color: #999;
+
+}
+.login-2-b a{
+	color: #FE8C00;
+}
